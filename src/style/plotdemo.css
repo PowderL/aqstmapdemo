@@ -1,0 +1,30 @@
+.el-menu-demo{
+    width: 10%;
+    height:100%;
+}
+.main-demo{
+    box-shadow: 0 4px 8px 0 rgba(36,46,66,0.06);
+    padding: 12px;
+    border-radius: 4px;
+    overflow: hidden;
+    position: absolute;
+    left: 3%;
+    right:3%;
+    top:calc(61px + 2%);
+    background-color: #edeef0;
+    bottom: 3%;
+    height: calc(100% - 61px - 4% - 24px);
+}
+.block{
+    width: 100%;
+    /* overflow: hidden; */
+    padding: 0px 0px;
+    display: inline;
+    /* flex-wrap: wrap; */
+}
+.demo-image{
+    width: 96%;
+}
+.loading{
+   text-align: center;
+}
